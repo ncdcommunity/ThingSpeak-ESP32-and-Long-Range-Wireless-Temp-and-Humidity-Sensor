@@ -10,7 +10,7 @@
 
 **Software Used:**
 - Arduino IDE
-- [Ubidot](https://ubidots.com/)
+- ThingSpeak
 
 **Library Used:**
 - PubSubClient Library
